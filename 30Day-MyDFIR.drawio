@@ -47,7 +47,7 @@
         <mxCell id="9NJ9z4cf7MwPcY771yD6-6" value="Elastic &amp;amp; Kibana" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.traditional_server;fillColor=#99CCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="350" y="213.5" width="46.5" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="9NJ9z4cf7MwPcY771yD6-9" value="VULTR&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9NJ9z4cf7MwPcY771yD6-9" value="&lt;div&gt;AWS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9NJ9z4cf7MwPcY771yD6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9NJ9z4cf7MwPcY771yD6-2" target="9NJ9z4cf7MwPcY771yD6-3">
